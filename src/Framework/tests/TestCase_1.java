@@ -31,17 +31,17 @@ public class TestCase_1 {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         driver.get("https://google.com");
+        System.out.println("setup");
 
     }
 
-    @Test(priority = 0)
+    @Test
     public void test_google_search_result(){
-
+        System.out.println("Priority 0");
         googleStartPage = new GoogleStartPage(driver);
         String actualTitle = googleStartPage.getTitle();
-        Assert.assertEquals(actualTitle, "Google");
-
-        googleStartPage.searchText("");
+        Assert.assertTrue(actualTitle.contains("Google"));
+        googleStartPage.searchText("Infosys");
         googleStartPage.clickOnGoogleSearch();
 
         searchResultPage = new SearchResultPage(driver);
@@ -50,9 +50,9 @@ public class TestCase_1 {
         Assert.assertEquals(resultPageTitle, "Infosys - Google Search");
     }
 
-    @Test(priority = 1)
+    @Test(priority = -1)
     public void test_google_news_result(){
-
+        System.out.println("Priority -1");
         googleStartPage = new GoogleStartPage(driver);
         String actualTitle = googleStartPage.getTitle();
         Assert.assertEquals(actualTitle, "Google");
@@ -65,11 +65,12 @@ public class TestCase_1 {
         String resultPageTitle = searchResultPage.getTitle();
         Assert.assertEquals(resultPageTitle, "Infosys - Google Search");
         searchResultPage.clickOnLink("news");
+
     }
 
     @Test(priority = 2)
     public void test_google_images_result(){
-
+        System.out.println("Priority 2");
         googleStartPage = new GoogleStartPage(driver);
         String actualTitle = googleStartPage.getTitle();
         Assert.assertEquals(actualTitle, "Google");
@@ -86,7 +87,7 @@ public class TestCase_1 {
 
     @Test(priority=3)
     public void test_google_books_result(){
-
+        System.out.println("Priority 3");
         googleStartPage = new GoogleStartPage(driver);
         String actualTitle = googleStartPage.getTitle();
         Assert.assertEquals(actualTitle, "Google");

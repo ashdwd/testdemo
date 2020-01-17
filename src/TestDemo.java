@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -15,11 +16,16 @@ public class TestDemo {
             }
         }
         String[] str =s.split("@");
-        System.out.println(str.length);
-        for(int i=0 ; i<str.length;i++){
-            System.out.println(str[i]);
+        String[] removedNull = Arrays.stream(str)
+                .filter(value ->
+                        value != null && value.length() > 0
+                )
+                .toArray(size -> new String[size]);
+        System.out.println(removedNull.length);
+        for(int i=0 ; i<removedNull.length;i++){
+                System.out.println(removedNull[i]);
         }
-        System.out.println(System.getProperty("user.name"));
+
 
     }
     static boolean isAnagram(String a, String b) {

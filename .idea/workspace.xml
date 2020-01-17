@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27b2ca0b-0ce4-4a5f-afb5-1d144ffecf57" name="Default Changelist" comment="" />
+    <list default="true" id="27b2ca0b-0ce4-4a5f-afb5-1d144ffecf57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json-20190722-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json-20190722-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json-20190722.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jxl-2.6.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-ooxml-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EncapsulationInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcelToXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JsonHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultipleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WriteXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XmlHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testPAckage/ExampleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testPAckage/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testPAckage/TryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestDemo/Framework/tests/TestCase_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestDemo/Framework/tests/TestCase_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestDemo/TestAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestDemo/TestAutomation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestDemo/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestDemo/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Framework/tests/TestCase_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Framework/tests/TestCase_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestDemo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestDemo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Framework.tests.TestCase_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Framework.tests.TestCase_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +60,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TxV523rMBkOExtmr9bjMZ00O5r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-output" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/poi-ooxml-4.1.1.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -39,7 +88,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo">
+  <component name="RunManager" selected="Application.TryCatch">
+    <configuration name="CollectionInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionInJava" />
+      <module name="TestDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestAutomation" />
       <module name="TestDemo" />
@@ -54,19 +110,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase_1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPolymorphism" />
+      <module name="TestDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testPAckage.TryCatch" />
       <module name="TestDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Framework.tests.*" />
+          <option name="PATTERN" value="testPAckage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Framework.tests" />
-      <option name="MAIN_CLASS_NAME" value="Framework.tests.TestCase_1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,42 +144,6 @@
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase_1.test_google_news_result" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Framework.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Framework.tests" />
-      <option name="MAIN_CLASS_NAME" value="Framework.tests.TestCase_1" />
-      <option name="METHOD_NAME" value="test_google_news_result" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase_1.test_google_search_result" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Framework.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Framework.tests" />
-      <option name="MAIN_CLASS_NAME" value="Framework.tests.TestCase_1" />
-      <option name="METHOD_NAME" value="test_google_search_result" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -146,20 +169,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TestPolymorphism" />
+      <item itemvalue="Application.CollectionInJava" />
       <item itemvalue="Application.TestAutomation" />
       <item itemvalue="Application.TestDemo" />
+      <item itemvalue="Application.TryCatch" />
       <item itemvalue="TestNG.TestCase_1" />
-      <item itemvalue="TestNG.TestCase_1.test_google_news_result" />
-      <item itemvalue="TestNG.TestCase_1.test_google_search_result" />
-      <item itemvalue="TestNG.TestCase_1 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.TryCatch" />
+        <item itemvalue="Application.CollectionInJava" />
         <item itemvalue="Application.TestAutomation" />
-        <item itemvalue="TestNG.TestCase_1" />
-        <item itemvalue="TestNG.TestCase_1.test_google_news_result" />
-        <item itemvalue="TestNG.TestCase_1.test_google_search_result" />
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.TestPolymorphism" />
       </list>
     </recent_temporary>
   </component>
@@ -176,24 +199,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Framework/tests/TestCase_1.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Framework/tests/TestCase_1.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Framework/tests/TestCase_1.java</url>
-          <line>89</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/TestAutomation.java</url>
           <line>9</line>
@@ -209,6 +230,27 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Framework/tests/TestCase_1.java</url>
+          <line>24</line>
+          <properties class="Framework.tests.TestCase_1" method="setup">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CollectionInJava.java</url>
+          <line>105</line>
+          <properties class="CollectionInJava" method="hashSet">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Framework/tests/TestCase_1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
